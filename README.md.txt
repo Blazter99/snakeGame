@@ -1,0 +1,1 @@
+Gitclone and open index.html with LIVE SERVER in Visual Code Studios to play.
